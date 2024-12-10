@@ -1,0 +1,4 @@
+cirq>=1.0.0
+numpy>=1.21.0
+typing-extensions>=4.0.0
+myrobotlab>=1.1.0
